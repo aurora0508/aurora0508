@@ -1,4 +1,4 @@
-"""A small gold tiara that sits over her name."""
+"""A small gold tiara that floats over her name."""
 
 from anims import Anims
 
@@ -18,4 +18,5 @@ def tiara(x: float, y: float, p: dict) -> str:
 
 
 def crown(p: dict, an: Anims) -> str:
-    return tiara(250, 104, p)
+    float_ = [(k * 1.5, f"transform:translateY({(0, -3)[k % 2]}px)") for k in range(9)]
+    return f'<g {an.attr(float_, base="")}>{tiara(250, 104, p)}</g>'
