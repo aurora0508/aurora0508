@@ -14,13 +14,13 @@
   <a href="https://github.com/aurora0508/elle-editorial-desk"><img src="https://img.shields.io/badge/%E2%9C%8E%20desk-Claude%20Code-e0b84f?style=for-the-badge&labelColor=6b2b5e" alt="編輯台：Claude Code"/></a>
 </p>
 
-&nbsp;
+<p align="center"><img src="assets/divider.svg" alt="" width="320"/></p>
 
 ### 👑 Chapter 1 · 關於我
 
 ELLE Taiwan 娛樂線編輯。追故事線、做專訪、看完電影寫影評，也寫人物和清單；外電到手，改寫成讀起來像我們自己寫的稿，不逐字翻譯。
 
-&nbsp;
+<p align="center"><img src="assets/divider.svg" alt="" width="320"/></p>
 
 ### ✎ Chapter 2 · 我的編輯台
 
@@ -35,7 +35,7 @@ ELLE Taiwan 娛樂線編輯。追故事線、做專訪、看完電影寫影評�
 | `/elle-keyword` | 檢查關鍵字：意圖、稱謂、排除清單 |
 | `/elle-check` | 上稿前檢查 |
 
-&nbsp;
+<p align="center"><img src="assets/divider.svg" alt="" width="320"/></p>
 
 ### ✦ Chapter 3 · 第一個 repo
 
