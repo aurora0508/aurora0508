@@ -8,6 +8,7 @@ from petal import petals
 from ribbon import role
 from stars import stars
 from text import masthead, tagline
+from tiara import crown
 from wand import wand_trail, wand_tip
 
 W, H = 1200, 360
@@ -26,6 +27,7 @@ LAYERS = [
     masthead,
     tagline,
     role,
+    crown,
 ]
 
 
