@@ -37,3 +37,7 @@ ELLE Taiwan 娛樂線編輯。追故事線、做專訪、看完電影寫影評�
 ### ✦ Chapter 3 · 第一個 repo
 
 [153.1](https://github.com/aurora0508/153.1)：2017 年做的第一個網頁，介紹最喜歡的 Fifth Harmony。
+
+&nbsp;
+
+<p align="center"><sub>✿ and they wrote happily ever after ✿</sub></p>
