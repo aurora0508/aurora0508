@@ -19,6 +19,6 @@
 
   <g clip-path="url(#card)">
     <rect width="1200" height="360" fill="url(#sky)"/>
-    <text x="64" y="58" class="kicker">ONCE UPON A HEADLINE</text><text x="60" y="222" class="mast">aurora</text><text x="80" y="326" class="tagline">writing the stories behind the stars, happily ever after</text>
+    <text x="64" y="58" class="kicker">ONCE UPON A HEADLINE</text><text x="60" y="222" class="mast">aurora</text><text x="80" y="326" class="tagline">writing the stories behind the stars, happily ever after</text><path d="M54 260 h30 v34 h-30 l12 -17.0 Z" fill="#b4507f"/><path d="M526 260 h-30 v34 h30 l-12 -17.0 Z" fill="#b4507f"/><path d="M80 252 Q290.0 242 500 252 v34 Q290.0 276 80 286 Z" fill="#d9709f"/><text x="290.0" y="274" class="role" text-anchor="middle">娛樂編輯 · Entertainment Editor, ELLE Taiwan</text>
   </g>
 </svg>
