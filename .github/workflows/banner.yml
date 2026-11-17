@@ -16,3 +16,7 @@ jobs:
           python-version: "3.12"
       - name: Unit tests
         run: PYTHONPATH=scripts/princess python3 -m unittest discover -s scripts/princess/tests -v
+      - name: The SVGs in assets/ match the code
+        run: |
+          python3 scripts/princess
+          git diff --exit-code assets/ || (echo "Run python3 scripts/princess and commit assets/." && exit 1)
