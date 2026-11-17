@@ -22,3 +22,7 @@ ELLE Taiwan 娛樂線編輯。追故事線、做專訪、看完電影寫影評�
 ### ✎ Chapter 2 · 我的編輯台
 
 我做了 [elle-editorial-desk](https://github.com/aurora0508/elle-editorial-desk)，一個幫我處理每天稿子的 Claude Code skill：
+
+| 指令 | 做什麼 |
+|---|---|
+| `/elle-title` | 優化標題：SEO、Google Discover、AIO，含即時熱搜 |
