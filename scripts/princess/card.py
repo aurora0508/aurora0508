@@ -5,6 +5,7 @@ from castle import castle
 from hills import hills_back, hills_front
 from moon import moon
 from ribbon import role
+from stars import stars
 from text import masthead, tagline
 
 W, H = 1200, 360
@@ -16,6 +17,7 @@ LAYERS = [
     hills_back,
     castle,
     hills_front,
+    stars,
     masthead,
     tagline,
     role,
