@@ -8,6 +8,7 @@ from petal import petals
 from ribbon import role
 from stars import stars
 from text import masthead, tagline
+from wand import wand_trail
 
 W, H = 1200, 360
 SERIF = '"Didot", "Bodoni 72", "Playfair Display", "Noto Serif TC", Georgia, serif'
@@ -20,6 +21,7 @@ LAYERS = [
     hills_front,
     stars,
     petals,
+    wand_trail,
     masthead,
     tagline,
     role,
