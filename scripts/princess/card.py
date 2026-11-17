@@ -1,12 +1,14 @@
 """Assemble the banner: the sky, then each layer from back to front."""
 
 from anims import CYCLE, Anims
+from text import masthead
 
 W, H = 1200, 360
 SERIF = '"Didot", "Bodoni 72", "Playfair Display", "Noto Serif TC", Georgia, serif'
 SANS = '"Avenir Next", ui-rounded, "PingFang TC", "Noto Sans TC", -apple-system, "Segoe UI", sans-serif'
 
 LAYERS = [
+    masthead,
 ]
 
 
