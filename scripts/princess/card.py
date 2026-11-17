@@ -53,6 +53,7 @@ def render(p: dict) -> str:
       .a {{ animation-duration: {CYCLE:g}s; animation-iteration-count: infinite; animation-timing-function: ease-in-out; }}
       .fb {{ transform-box: fill-box; transform-origin: center; }}
       {keyframes}
+      @media (prefers-reduced-motion: reduce) {{{{ * {{{{ animation: none !important; }}}} }}}}
     </style>
   </defs>
 

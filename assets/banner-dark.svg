@@ -32,6 +32,7 @@
       @keyframes k14 { 0.000% { stroke-dashoffset:520;opacity:0 } 5.000% { stroke-dashoffset:520;opacity:1 } 16.667% { stroke-dashoffset:0;opacity:1 } 26.667% { stroke-dashoffset:0;opacity:0 } 100.000% { stroke-dashoffset:0;opacity:0 } }
       @keyframes k15 { 0.000% { opacity:0;transform:translate(0,0) } 5.000% { opacity:1;transform:translate(0,0) } 16.667% { opacity:1;transform:translate(450px,-20px) } 21.667% { opacity:0;transform:translate(450px,-20px) } 100.000% { opacity:0;transform:translate(450px,-20px) } }
       @keyframes k16 { 0.000% { transform:translateY(0px) } 12.500% { transform:translateY(-3px) } 25.000% { transform:translateY(0px) } 37.500% { transform:translateY(-3px) } 50.000% { transform:translateY(0px) } 62.500% { transform:translateY(-3px) } 75.000% { transform:translateY(0px) } 87.500% { transform:translateY(-3px) } 100.000% { transform:translateY(0px) } }
+      @media (prefers-reduced-motion: reduce) {{ * {{ animation: none !important; }} }}
     </style>
   </defs>
 
