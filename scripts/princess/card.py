@@ -1,6 +1,7 @@
 """Assemble the banner: the sky, then each layer from back to front."""
 
 from anims import CYCLE, Anims
+from moon import moon
 from ribbon import role
 from text import masthead, tagline
 
@@ -9,6 +10,7 @@ SERIF = '"Didot", "Bodoni 72", "Playfair Display", "Noto Serif TC", Georgia, ser
 SANS = '"Avenir Next", ui-rounded, "PingFang TC", "Noto Sans TC", -apple-system, "Segoe UI", sans-serif'
 
 LAYERS = [
+    moon,
     masthead,
     tagline,
     role,
