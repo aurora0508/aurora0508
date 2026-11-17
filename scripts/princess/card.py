@@ -1,6 +1,7 @@
 """Assemble the banner: the sky, then each layer from back to front."""
 
 from anims import CYCLE, Anims
+from hills import hills_back
 from moon import moon
 from ribbon import role
 from text import masthead, tagline
@@ -11,6 +12,7 @@ SANS = '"Avenir Next", ui-rounded, "PingFang TC", "Noto Sans TC", -apple-system,
 
 LAYERS = [
     moon,
+    hills_back,
     masthead,
     tagline,
     role,
