@@ -4,6 +4,7 @@ from anims import CYCLE, Anims
 from castle import castle
 from hills import hills_back, hills_front
 from moon import moon
+from petal import petals
 from ribbon import role
 from stars import stars
 from text import masthead, tagline
@@ -18,6 +19,7 @@ LAYERS = [
     castle,
     hills_front,
     stars,
+    petals,
     masthead,
     tagline,
     role,
