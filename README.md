@@ -16,3 +16,9 @@
 ### 👑 Chapter 1 · 關於我
 
 ELLE Taiwan 娛樂線編輯。追故事線、做專訪、看完電影寫影評，也寫人物和清單；外電到手，改寫成讀起來像我們自己寫的稿，不逐字翻譯。
+
+&nbsp;
+
+### ✎ Chapter 2 · 我的編輯台
+
+我做了 [elle-editorial-desk](https://github.com/aurora0508/elle-editorial-desk)，一個幫我處理每天稿子的 Claude Code skill：
