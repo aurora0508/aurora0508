@@ -19,6 +19,6 @@
 
   <g clip-path="url(#card)">
     <rect width="1200" height="360" fill="url(#sky)"/>
-    
+    <text x="64" y="58" class="kicker">ONCE UPON A HEADLINE</text><text x="60" y="222" class="mast">aurora</text>
   </g>
 </svg>
