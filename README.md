@@ -27,3 +27,4 @@ ELLE Taiwan 娛樂線編輯。追故事線、做專訪、看完電影寫影評�
 |---|---|
 | `/elle-title` | 優化標題：SEO、Google Discover、AIO，含即時熱搜 |
 | `/elle-draft` | 寫草稿：專訪、故事線、影評、人物、清單 |
+| `/elle-polish` | 潤飾內文，去 AI 味與翻譯腔 |
