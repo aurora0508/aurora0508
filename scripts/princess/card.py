@@ -2,7 +2,7 @@
 
 from anims import CYCLE, Anims
 from castle import castle
-from hills import hills_back
+from hills import hills_back, hills_front
 from moon import moon
 from ribbon import role
 from text import masthead, tagline
@@ -15,6 +15,7 @@ LAYERS = [
     moon,
     hills_back,
     castle,
+    hills_front,
     masthead,
     tagline,
     role,
