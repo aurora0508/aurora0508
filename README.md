@@ -1,3 +1,6 @@
+<!-- aurora0508 / aurora0508: profile README
+     The banner and divider are drawn by scripts/princess; run `python3 scripts/princess` after changing it. -->
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"/>
